@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juanpabarce
 - 👀 I’m interested in creating blockchain projects
 - 🌱 I’m currently learning Solidity 
-- 💞️ I’m looking to collaborate on NFT projects
+- 💞️ I’m looking to collaborate in NFT projects
 - 📫  Reach me in twiiter @barcenas
 
 <!---
